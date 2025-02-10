@@ -11,7 +11,7 @@ This project develops an ESG-diversified portfolio recommender chatbot in Matlab
 </p>
 
 <p align="left">
-<img src="images/Differently_Optimized_ESG_Curves.png" width="500" height="400">
+<img src="images/Differently_Optimized_ESG_Curves.png" width="600" height="300">
 </p>
 
 
